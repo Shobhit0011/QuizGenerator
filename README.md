@@ -1,7 +1,8 @@
 # QuizGenerator
 
-##Demo
-<a href="https://shobhit0011.github.io/">QUIZ GENERATOR</a>
+<b>DEMO</b>
+<a href="https://shobhit0011.github.io/QuizGenerator/">QUIZ GENERATOR</a>
+
 
 ## Overview
 
