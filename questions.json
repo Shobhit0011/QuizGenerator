@@ -1,0 +1,130 @@
+{
+    "questions" :[
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 2 + 2?",
+      "options": ["3", "4", "5"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 3 + 2?",
+      "options": ["3", "4", "5"],
+      "correct_answer": 2
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 2 * 2?",
+      "options": ["3", "4", "5"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 2 / 2?",
+      "options": ["1", "4", "5"],
+      "correct_answer": 0
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 2 - 2?",
+      "options": ["3", "4", "0"],
+      "correct_answer": 2
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 5 + 2?",
+      "options": ["3", "7", "5"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 9 + 2?",
+      "options": ["11", "4", "5"],
+      "correct_answer": 0
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 7 * 2?",
+      "options": ["3", "14", "5"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 8 + 2?",
+      "options": ["10", "4", "5"],
+      "correct_answer": 0
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Easy",
+      "text": "What is 7 * 2?",
+      "options": ["3", "4", "14"],
+      "correct_answer": 2
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Medium",
+      "text": "What is the square root of 25?",
+      "options": ["3", "5", "6"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "Math",
+      "difficulty": "Hard",
+      "text": "What is the value of pi (π) to two decimal places?",
+      "options": ["3.14", "3.16", "3.18"],
+      "correct_answer": 0
+    },
+    {
+      "topic": "English",
+      "difficulty": "Easy",
+      "text": "What is the plural form of 'child'?",
+      "options": ["childs", "children", "childes"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "English",
+      "difficulty": "Medium",
+      "text": "Which of the following words is a synonym for 'happy'?",
+      "options": ["sad", "joyful", "angry"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "English",
+      "difficulty": "Hard",
+      "text": "Identify the correct spelling:",
+      "options": ["recieve", "receive", "recieve"],
+      "correct_answer": 1
+    },
+    {
+      "topic": "Science",
+      "difficulty": "Easy",
+      "text": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl"],
+      "correct_answer": 0
+    },
+    {
+      "topic": "Science",
+      "difficulty": "Medium",
+      "text": "What is the primary component of the Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide"],
+      "correct_answer": 0
+    },
+    {
+      "topic": "Science",
+      "difficulty": "Hard",
+      "text": "Which of the following is NOT a type of rock?",
+      "options": ["Igneous", "Metamorphic", "Aerobic"],
+      "correct_answer": 2
+    }
+  ]
+}
